@@ -4,4 +4,4 @@ I guess I'm just gonna show you [this](https://www.linkedin.com/in/wangsongyu/ "
 ### Oh yea, one more thing!
 Kinda proud of `Arctic Code Vault Contributor` 😊
 
-(Can't wait for the post-apocalyptic generation to dig them up and found my code!)
+(Can't wait for the post-apocalyptic generation to dig them up and find my code!)
