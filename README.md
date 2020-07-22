@@ -11,4 +11,5 @@ Kinda proud of `Arctic Code Vault Contributor` 😊
 Unlike other people, there are two things I hate:
 1. Docker
 2. Static Typed Languages
+
 (Clarification: I do know how to work with them, if that is not obvious...)
